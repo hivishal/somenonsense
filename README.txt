@@ -9,4 +9,5 @@ git log --pretty=format:"%h-%an-%ar-%s .
 git commit --amend forgot to add contents to a file and add file to the same file
 command is git reset ammend ;
 one fiel in the staging area and remove the other fiel from the staging area
+git reset HEAD CONTRIBUTING.md
 
